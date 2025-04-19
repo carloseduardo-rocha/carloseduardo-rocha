@@ -42,4 +42,4 @@ Projetos desenvolvidos durante a trilha Discover da Rocketseat, explorando funda
 
 ### 🐍 Contribuições
 
-![snake gif](https://github.com/carloseduardo-rocha/carloseduardo-rocha/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/carloseduardo-rocha/carloseduardo-rocha/output/github-contribution-grid-snake.svg)
