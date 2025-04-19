@@ -27,7 +27,9 @@
 
 ### 📌 Projetos em destaque
 
-- [Gerenciador de Contatos](https://github.com/carloseduardo-rocha/Gerenciador-de-Contatos) – Sistema CRUD completo em Java com foco em boas práticas de POO e documentação
+- [FitTribe-App_Mobile](https://github.com/carloseduardo-rocha/FitTribe-App_Mobile) – Aplicativo mobile voltado para a organização de eventos esportivos, com funcionalidades como criação de partidas, perfil de usuário e integração de equipes. Desenvolvido em equipe com foco em UX e integração entre telas.
+
+- [Discover-RocketSeat](https://github.com/carloseduardo-rocha/Discover-RocketSeat) – Projetos desenvolvidos durante os cursos da Rocketseat, com foco em fundamentos de HTML, CSS e JavaScript. Ideal para treinar boas práticas de desenvolvimento web.
 
 ---
 
@@ -41,7 +43,7 @@
 
 ### 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/carlos-eduardo-408087230)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/carlos-eduardo-408087230)
 - 📧 cadurocha39@gmail.com
 
 ---
