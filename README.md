@@ -26,7 +26,7 @@
 🔹 [**FitTribe-App_Mobile**](https://github.com/carloseduardo-rocha/FitTribe-App_Mobile)  
 App para eventos esportivos com foco em integração entre atletas. Projeto em equipe com funcionalidades como: visualização de eventos, inscrições e gestão de participantes.
 
-🔹 [**Discover-RocketSeat**](https://github.com/carloseduardo-rocha/Discover-RocketSeat)  
+🔹 [**Projeto-RocketSeat **](https://github.com/carloseduardo-rocha/Projeto-RocketSeat)  
 Projetos desenvolvidos durante a trilha Discover da Rocketseat, explorando fundamentos de desenvolvimento web com HTML, CSS, JS e back-end com Node.js.
 
 ---
