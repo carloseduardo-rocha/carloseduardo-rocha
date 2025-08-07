@@ -1,57 +1,57 @@
-<h1 align="center">Hey there! I'm Carlos Eduardo 👋</h1>
+<h1 align="center">👋 Hey — I'm Carlos Eduardo</h1>
 
 <p align="center">
-  A passionate Back-End Developer with growing interest in Information Security.<br>
-  I love creating robust and efficient solutions that solve real-world problems.
-</p>
-
-<p align="center">
-  🌐 <a href="https://tinyurl.com/4wt9e8xz" target="_blank">Meu site</a>
+  <strong>Back-End Developer & Project Analyst </strong> • Experienced in backend development and data processing, with practical knowledge supporting FTTH network planning.
 </p>
 
 ---
 
-### 💼 Sobre mim
+### About me (technical)
 
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas no Senac-CE 
-- 🧠 Interesse em: Segurança da Informação, Desenvolvimento Back-End  
-- 💻 Linguagens favoritas: Java, Ruby, Python  
-- 🔍 Em busca de oportunidades como desenvolvedor júnior  
-- 🧪 Gosto de testes, mas meu foco é no back-end  
+- 🎓 **Degree:** Systems Analysis and Development — Senac-CE  
+- 💼 **Experience:** Projects Analyst Apprentice at Alares — responsible for bulk data processing, automation, technical documentation and FTTH network planning & implementation.  
+- 🧠 **Focus areas:** Back-end development, systems reliability, data handling.  
+- 💻 **Tech stack:** Ruby • Java • Python • Node.js • MySQL • SQLite  
+- 🔒 **Security interest:** Information security fundamentals, secure coding practices and defensive architecture.  
+- 🎯 **Goal:** Position as Junior Back-End Developer — building testable, maintainable services and integrating secure network-aware solutions.
 
 ---
 
-### 🚀 Projetos em Destaque
-
+### 🚀 Projects (highlight)
 🔹 [**FitTribe-App_Mobile**](https://github.com/carloseduardo-rocha/FitTribe-App_Mobile)  
-App para eventos esportivos com foco em integração entre atletas. Projeto em equipe com funcionalidades como: visualização de eventos, inscrições e gestão de participantes.
+Aplicativo mobile para eventos esportivos, inspirado no Strava, com funcionalidades como:
+- Visualização de eventos  
+- Inscrição e gerenciamento de participantes  
+- Mapa interativo e comunicação entre usuários
 
-🔹 [**Projeto-RocketSeat**](https://github.com/carloseduardo-rocha/Projeto-RocketSeat)  
-Projetos desenvolvidos durante a trilha Discover da Rocketseat, explorando fundamentos de desenvolvimento web com HTML, CSS, JS e back-end com Node.js.
-
----
-
-### 📊 GitHub Stats e Linguagens
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardo-rocha&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carloseduardo-rocha&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+🔹 [**Discover-RocketSeat**](https://github.com/carloseduardo-rocha/Discover-RocketSeat)  
+Projetos desenvolvidos na trilha Discover da Rocketseat, abordando:
+- HTML, CSS e JavaScript  
+- Node.js e conceitos básicos de back-end  
 
 ---
 
-### 📬 Contato
+### 📊 GitHub Stats
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/carlos-eduardo-408087230)
-- 🔗 [Portifólio](https://tinyurl.com/4wt9e8xz)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardo-rocha&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=carloseduardo-rocha&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+---
+
+### 📬 Onde me encontrar
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/carlos-eduardo-408087230)  
+- 🔗 [Portfólio](https://tinyurl.com/4wt9e8xz)  
 - 📧 cadurocha39@gmail.com
 
 ---
 
-### 🐍 Contribuições
+### 🐍 Minhas Contribuições
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/carloseduardo-rocha/carloseduardo-rocha/output/github-contribution-grid-snake.svg" alt="Snake animation" />
