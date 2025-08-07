@@ -13,7 +13,7 @@
 
 ### 💼 Sobre mim
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas no Senac-CE (5º semestre)  
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas no Senac-CE 
 - 🧠 Interesse em: Segurança da Informação, Desenvolvimento Back-End  
 - 💻 Linguagens favoritas: Java, Ruby, Python  
 - 🔍 Em busca de oportunidades como desenvolvedor júnior  
@@ -45,8 +45,9 @@ Projetos desenvolvidos durante a trilha Discover da Rocketseat, explorando funda
 
 ### 📬 Contato
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/carlos-eduardo-408087230)  
-- 📧 cadurocha39@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/carlos-eduardo-408087230)
+- 🔗 [Portifólio](https://tinyurl.com/4wt9e8xz)
+- 📧 cadurocha39@gmail.com
 
 ---
 
