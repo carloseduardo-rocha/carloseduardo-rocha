@@ -24,7 +24,7 @@ Aplicativo mobile para eventos esportivos, inspirado no Strava, com funcionalida
 - Inscrição e gerenciamento de participantes  
 - Mapa interativo e comunicação entre usuários
 
-🔹 [**Discover-RocketSeat**](https://github.com/carloseduardo-rocha/Discover-RocketSeat)  
+🔹 [**Discover-RocketSeat**](https://github.com/carloseduardo-rocha/Projeto-RocketSeat)  
 Projetos desenvolvidos na trilha Discover da Rocketseat, abordando:
 - HTML, CSS e JavaScript  
 - Node.js e conceitos básicos de back-end  
