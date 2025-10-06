@@ -1,33 +1,51 @@
-<h1 align="center">👋 Hey — I'm Carlos Eduardo</h1>
+<h1 align="center">👋 Hey — I'm Carlos Eduardo (Cadu)</h1>
 
 <p align="center">
-  <strong>Back-End Developer & Project Analyst </strong> • Experienced in backend development and data processing, with practical knowledge supporting FTTH network planning.
+  <strong>Back-End Developer & Project Analyst</strong><br>
+  Building reliable systems with Ruby, Java & Python | FTTH Networks | Data Automation
 </p>
 
 ---
 
-### About me (technical)
+### About me
 
-- 🎓 **Degree:** Systems Analysis and Development — Senac-CE  
-- 💼 **Experience:** Projects Analyst Apprentice at Alares — responsible for bulk data processing, automation, technical documentation and FTTH network planning & implementation.  
-- 🧠 **Focus areas:** Back-end development, systems reliability, data handling.  
-- 💻 **Tech stack:** Ruby • Java • Python • Node.js • MySQL • SQLite  
-- 🔒 **Security interest:** Information security fundamentals, secure coding practices and defensive architecture.  
-- 🎯 **Goal:** Position as Junior Back-End Developer — building testable, maintainable services and integrating secure network-aware solutions.
+- 🎓 **Graduated in** Systems Analysis and Development (Senac-CE)  
+- 💼 **Former Projects Analyst** at Alares — FTTH planning, data automation & technical documentation  
+- 🧠 **Focus Areas:** Back-end development, API design, database architecture, information security  
+- 🎯 **Current Goal:** Junior Back-End Developer position — building scalable and secure services  
 
 ---
 
-### 🚀 Projects (highlight)
-🔹 [**FitTribe-App_Mobile**](https://github.com/carloseduardo-rocha/FitTribe-App_Mobile)  
-Aplicativo mobile para eventos esportivos, inspirado no Strava, com funcionalidades como:
-- Visualização de eventos  
-- Inscrição e gerenciamento de participantes  
-- Mapa interativo e comunicação entre usuários
+### 🛠 Tech Stack
 
-🔹 [**Discover-RocketSeat**](https://github.com/carloseduardo-rocha/Projeto-RocketSeat)  
-Projetos desenvolvidos na trilha Discover da Rocketseat, abordando:
-- HTML, CSS e JavaScript  
-- Node.js e conceitos básicos de back-end  
+**Back-End & Databases**  
+`Ruby` `Java` `Python` `Node.js` `MySQL` `SQLite`  
+
+**Tools & Platforms**  
+`Git` `GitHub` `Figma` `OZmap` `CAAD` `Excel` `Power BI`  
+
+**Web & Mobile**  
+`HTML` `CSS` `JavaScript` `React Native` `Expo Go`
+
+**Currently Learning**  
+`Spring Boot` `AWS` `Terraform` `Security Fundamentals`  
+
+---
+### 🏆 Highlighted Projects
+
+🔹 **[FitTribe - Mobile Sports App](https://github.com/carloseduardo-rocha/FitTribe-App_Mobile)**  
+Mobile app inspired by Strava for sport events management  
+`React Native` `Expo Go` `Node.js` `SQLite` `REST API`  
+
+🔹 **[TOPFREIOS Website](https://github.com/oliveriraneto/TOPFREIOS-websites)**  
+National company website for truck parts and services  
+`HTML` `CSS` `JavaScript` `Team Collaboration` `Responsive Design`
+
+🔹 **[Personal Portfolio](https://tinyurl.com/4wt9e8xz)**  
+Professional portfolio showcasing projects and skills  
+`Modern Design` `Responsive` `Project Showcase`  
+
+⚡ **Coming Soon:** Chess System in Java & Spring Boot projects!
 
 ---
 
@@ -43,11 +61,11 @@ Projetos desenvolvidos na trilha Discover da Rocketseat, abordando:
 
 ---
 
-### 📬 Onde me encontrar
+### 📫 Connect With Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/carlos-eduardo-408087230)  
-- 🔗 [Portfólio](https://tinyurl.com/4wt9e8xz)  
-- 📧 cadurocha39@gmail.com
+- 🔗 **[LinkedIn](https://www.linkedin.com/in/carlos-eduardo-408087230)** — Professional profile & experience  
+- 🌐 **[Portfolio](https://tinyurl.com/4wt9e8xz)** — Projects showcase & details  
+- 📧 **cadurocha39@gmail.com** — Let's talk!
 
 ---
 
