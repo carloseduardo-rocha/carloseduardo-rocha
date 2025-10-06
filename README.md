@@ -41,9 +41,9 @@ Mobile app inspired by Strava for sport events management
 National company website for truck parts and services  
 `HTML` `CSS` `JavaScript` `Team Collaboration` `Responsive Design`
 
-🔹 **[Personal Portfolio](https://tinyurl.com/4wt9e8xz)**  
-Professional portfolio showcasing projects and skills  
-`Modern Design` `Responsive` `Project Showcase`  
+🔹 **[Alura IA Agents Project](https://github.com/carloseduardo-rocha/Alura-IA-Agents)**  
+Developing intelligent AI assistants and automation systems  
+`Python` `AI Integration` `Automation` `Agents Architecture`
 
 ⚡ **Coming Soon:** Chess System in Java & Spring Boot projects!
 
