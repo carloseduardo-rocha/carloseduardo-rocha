@@ -19,7 +19,7 @@
 ### 🛠 Tech Stack
 
 **Back-End & Databases**  
-`Ruby` `Java` `Python` `Node.js` `MySQL` `SQLite`  
+`Java` `Ruby` `Python` `Node.js` `MySQL` `SQLite`  
 
 **Tools & Platforms**  
 `Git` `GitHub` `Figma` `OZmap` `CAAD` `Excel` `Power BI`  
