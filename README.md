@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Back-End Developer & Project Analyst</strong><br>
-  Building reliable systems with Ruby, Java & Python | FTTH Networks | Data Automation
+  Building reliable systems with Java | FTTH Networks | Data Automation
 </p>
 
 ---
